@@ -7,9 +7,6 @@ class A extends JFrame implements ActionListener
   JTextField tf1,tf2,tf3;
   A()
   {
-    D()
-    {
-      add Window
     JLabel l1=new JLabel("First No. ");
     JLabel l2=new JLabel("Second No. ");
     JLabel l3=new JLabel("Result ");
